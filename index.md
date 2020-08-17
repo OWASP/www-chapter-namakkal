@@ -40,7 +40,7 @@ Would you like to speak on the upcoming OWASP Namakkal Webinar? [Contact Us](mai
 
 ## Sponsorship for Local Chapter
 For more information on how to support OWASP Namakkal chapter in helping organize free and open security meets contact the chapter leader.
-[Arjun Chaudhary](mailto:abishekraghav.murugeashan@owasp.org)
+[Abishsekraghav](mailto:abishekraghav.murugeashan@owasp.org)
 
 ## Local News
 - Everyone is welcome to join us at our chapter meetings.
